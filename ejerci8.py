@@ -1,0 +1,11 @@
+# print("Calculemos tu sueldo")
+# print("Introduce tu sueldo")
+# x = int(input())
+# comisión = int(x*0.10)
+# sueldototal = str(x+comisión)
+# print("Tu sueldo total es " + str(sueldototal))
+
+print("inroduce tu sueldo")
+x = int(input())
+sueldo = (x + (x*0.10))
+print("Vuetro sueldo es " + str(sueldo))

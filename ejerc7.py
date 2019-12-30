@@ -1,0 +1,8 @@
+print("Calculemos las horas")
+print("Introduzca sus minutos")
+x = int(input())
+print("Tenemos " + str(x) + "minutos" )
+print("De este modo")
+horas = int(x/60) 
+minutos = int(x%60)
+print("Tendremos " + str(horas) + " horas  y " + str(minutos) + " minutos")

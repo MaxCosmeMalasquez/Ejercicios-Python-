@@ -1,0 +1,7 @@
+print("Buenas noches , hoy convertiremos de °F a °C")
+print("Ingresa  los grados Fahrenheit")
+x = int(input())
+print("Tenemos " +  str(x) + " °F")
+print("De este modo")
+Celcius = (x-32)*(5/9)
+print("Tenemos " + str(Celcius) + " °C")
