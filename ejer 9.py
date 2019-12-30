@@ -1,0 +1,5 @@
+print("Calcularemos su descuento")
+print("introduzca monto inicial")
+x = int(input())
+montofinal = (x - (x*0.15))
+print("Debe pagar con descuento " + str(montofinal))
