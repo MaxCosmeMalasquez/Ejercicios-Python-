@@ -1,5 +1,6 @@
 # Ejercicios-Python-
-Ejercicios a realizar. Ejercicio 1  Escribir un programa que pregunte al usuario su nombre, y luego lo salude.  
+Ejercicios a realizar. 
+Ejercicio 1  Escribir un programa que pregunte al usuario su nombre, y luego lo salude.  
 Ejercicio 2 Calcular el perímetro y área de un rectángulo dada su base y su altura.  
 Ejercicio 3 Dados los catetos de un triángulo rectángulo, calcular su hipotenusa. 
 Ejercicio 4 Dados dos números, mostrar la suma, resta, división y multiplicación de ambos. 
