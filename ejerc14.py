@@ -1,0 +1,8 @@
+print("Juguemos")
+print("Brindame tu primer número")
+x = input()
+print("Segundo valor")
+y =input()
+z = (x + y )
+print(str(z))
+print(str((z)[::-1]))

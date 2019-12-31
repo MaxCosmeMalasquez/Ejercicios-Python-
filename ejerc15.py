@@ -1,0 +1,6 @@
+print("Primer  Valor ")
+x = input()
+print("Segundo valor")
+y =input()
+z = (x + y )
+print(str((z)))
