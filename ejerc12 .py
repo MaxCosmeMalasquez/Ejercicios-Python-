@@ -1,0 +1,13 @@
+import math
+print("Brindamela primera coordenada")
+print("Brindame x ")
+x1 = int(input())
+print("Brindame y ")
+y1 = int(input())
+print("Brindame la segunda coordenada")
+print("Brindame x ")
+x2 = int(input())
+print("Brindame y ")
+y2 = int(input())
+resta = math.sqrt((x2-x1)**2 + (y2-y1)**2)
+print( "La distancia es " + str(resta))
