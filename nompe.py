@@ -6,5 +6,3 @@ while i<= x :
     h*=i 
     i+=1 
     print(h , " ", end="")
-
-
